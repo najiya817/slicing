@@ -1,0 +1,11 @@
+stri="one two three four five six seven eight nine ten"
+print(stri[-3:])
+print(stri[-8:-4])
+print(stri[-14:-9])
+print(stri[-20:-15])
+print(stri[-24:-21])
+print(stri[-29:-25])
+print(stri[-34:-30])
+print(stri[-40:-35])
+print(stri[-44:-41])
+print(stri[-48:-45])
